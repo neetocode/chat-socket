@@ -1,0 +1,13 @@
+### INSTUÇÕES
+## É NECESSÁRIO TER O NODEJS 8.x INSTALADO
+
+coloque o arquivo udp.js numa pasta e acesse-a via terminal,
+na pasta raiz onde o arquivo está localizado, digite:
+
+`node udp`
+
+Como usar a aplicação:
+    - Para a primeira parte a ser conectada, digite `0` para fica escutando
+    - Para a segunda parte a ser conectada, digite o PC da primeira parte e a porta exibida no console
+    - A conversa será iniciada.
+    - Para encerrar a conversa, digite em qualquer uma das partes `exit`
